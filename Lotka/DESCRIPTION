@@ -1,0 +1,10 @@
+Package: Lotka
+Type: Package
+Title: What the package does (short line)
+Version: 1.1
+Date: 2011-03-07
+Author: Timothy Riffe
+Maintainer: Timothy Riffe <tim.riffe@gmail.com>
+Description: A small set of functions for estimating the instantaneous growth rate, r, R0, it's higher moments, and decompositions of R0, as well as the mean generation time.
+License: General Public
+LazyLoad: yes
