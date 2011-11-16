@@ -1,10 +1,10 @@
 Package: Lotka
 Type: Package
-Title: What the package does (short line)
+Title: A small set of useful formal demography functions
 Version: 1.1
 Date: 2011-03-07
 Author: Timothy Riffe
 Maintainer: Timothy Riffe <tim.riffe@gmail.com>
 Description: A small set of functions for estimating the instantaneous growth rate, r, R0, it's higher moments, and decompositions of R0, as well as the mean generation time.
-License: General Public
+License: GPL-2
 LazyLoad: yes
